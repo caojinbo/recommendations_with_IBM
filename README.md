@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-The datasets are provided as part of udacity Data Scientist Nanodegree projects. The objective is to implement recommendation techniques using data from the IBM Watson Studio platform. i.e., `Recommendations with IBM`. The following techniques have been explored and implemented.
+The datasets are provided as part of Udacity Data Scientist Nanodegree projects. The objective is to implement recommendation techniques using data from the IBM Watson Studio platform. i.e., `Recommendations with IBM`. The following techniques have been explored and implemented.
 
 1. Rank-Based Recommendations
 2. User-User Based Collaborative Filtering
@@ -23,7 +23,7 @@ The datasets are provided as part of udacity Data Scientist Nanodegree projects.
 
 ## File Descriptions <a name="files"></a>
 
-All the analysis are combined in one single notebook. The notebook is exploratory with titles and sections to showcase work relatd to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+All the analysis are combined in one single notebook. The notebook is exploratory with titles and sections to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results<a name="results"></a>
 
